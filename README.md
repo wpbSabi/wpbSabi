@@ -13,7 +13,7 @@
 - 🌳 Fun fact: My wife and I are gardeners and home orchardists, respectively, and our ducks help with permaculture aspects of our system 🐛🦆🥚.
 
 ## Check out my repositories: 
-- [Python Optimization](https://github.com/wpbSabi/python_optimization) - includes supply chain models and the Census project mentioned above.
+- [Python Optimization](https://github.com/wpbSabi/python_optimization) includes supply chain models and the Census project mentioned above.
 - [Machine Learning](https://github.com/wpbSabi/machine_learning) includes python scikit-learn models, such as a farmers market analysis and will soon contain projects about hazelnut trees and duck eggs.
 - [Weather](https://github.com/wpbSabi/weather) includes Historical Weather Data Analysis with R; see my Towards Data Science article (link above).
 - [Oregon Covid-19](https://github.com/wpbSabi/oregon-covid-19) contains additional charts about Covid-19 from when I wanted to know more about how the virus was spreading near me.
