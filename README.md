@@ -8,9 +8,9 @@
 - 💡 I love learning and sharing. My repositories and the ones I follow are intended for both of those purposes.
 
 ## Connect with me: 
-🐦 On [Twitter](https://twitter.com/tourofdata).
-😄 Pronouns: he / him / his
-🌳 Fun fact: My wife and I are gardeners and home orchardists, respectively, and our ducks help with permaculture aspects of our system 🐛🦆🥚.
+- 🐦 On [Twitter](https://twitter.com/tourofdata).
+- 😄 Pronouns: he / him / his
+- 🌳 Fun fact: My wife and I are gardeners and home orchardists, respectively, and our ducks help with permaculture aspects of our system 🐛🦆🥚.
 
 ## Check out my repositories: 
 - [Python Optimization](https://github.com/wpbSabi/python_optimization) includes supply chain models and the Census project mentioned above.
