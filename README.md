@@ -4,7 +4,7 @@
 - 🌱 I'm an environmentalist with a concern for sustainable living.
 - 🌲 I live in Oregon, also known as heaven ☁️.
 - 📓 I started writing for [Towards Data Science](https://medium.com/@sabolch.horvat) on Medium in 2021.
-- 🔭 I’m currently working on my third article for Towards Data Science, related to the [Oregon Districts](https://github.com/wpbSabi/python_optimization/tree/main/oregon_districts) Census project.
+- 🔭 I’m currently working on a model with Google's OR-Tools
 - 💡 I love learning and sharing. My repositories and the ones I follow are intended for both of those purposes.
 
 ## Connect with me: 
