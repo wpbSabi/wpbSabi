@@ -1,6 +1,6 @@
 ### Hi there, I'm Sabi 👋
 
-## I'm a Data Scientist who strives to do good: 
+## I'm a Data Scientist (Operations Researcher) who strives to do good: 
 - 🌱 I'm an environmentalist with a concern for sustainable living.
 - 🌲 I live in Oregon, also known as heaven ☁️.
 - 📓 I started writing for [Towards Data Science](https://sabolch-horvat.medium.com/) on Medium in 2021.
