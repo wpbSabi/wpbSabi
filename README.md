@@ -16,6 +16,10 @@
 - [Python Optimization](https://github.com/wpbSabi/python_optimization) includes supply chain models and the Census project mentioned above.
   - [Oregon Districts](https://github.com/wpbSabi/python_optimization/tree/main/oregon_districts) project with 2020 Census
   - [Supply Chain Models](https://github.com/wpbSabi/python_optimization/tree/main/supply_chain_models) include a distibution model, a minimum cost flow model, and a seasonal inventory model
+  - [Facility Location](https://github.com/wpbSabi/python_optimization/tree/main/facility_location) is a simple supply chain example combining optimization with geospatial visualization of the results
+- [Geospatial](https://github.com/wpbSabi/geospatial) is for making maps that tell a story
+  - [Covid Deaths](https://github.com/wpbSabi/geospatial/tree/main/one_in_covid_deaths) uses geopandas to make choropleth maps of the World and the US around the time when 1 in 500 people in the US had died due to Covid
+  - [Montavilla](https://github.com/wpbSabi/geospatial/tree/main/montavilla) displays folium capabilities while exploring grocery store locations in East Portland
 - [Weather](https://github.com/wpbSabi/weather) includes Historical Weather Data Analysis with R; see my Towards Data Science [article](https://towardsdatascience.com/democratizing-historical-weather-data-with-r-cc3c76dde7c5).
 - [Oregon Covid-19](https://github.com/wpbSabi/oregon-covid-19) contains additional charts about Covid-19 from when I wanted to know more about how the virus was spreading near me.
 - [Machine Learning](https://github.com/wpbSabi/machine_learning) will include python scikit-learn models.  For now, there is one regressional analysis using farmers market data.
