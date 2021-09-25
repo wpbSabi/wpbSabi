@@ -14,11 +14,11 @@
 
 ## Check out my repositories: 
 - [Python Optimization](https://github.com/wpbSabi/python_optimization) includes supply chain models and the Census project mentioned above.
-  - [Oregon Districts](https://github.com/wpbSabi/python_optimization/tree/main/oregon_districts) project with 2020 Census
+  - [Oregon Districts](https://github.com/wpbSabi/python_optimization/tree/main/oregon_districts) is a project in anticipation of 2020 Census data with an accompanying [article](https://towardsdatascience.com/how-to-draw-congressional-districts-in-python-with-linear-programming-b1e33c80bc52)
   - [Supply Chain Models](https://github.com/wpbSabi/python_optimization/tree/main/supply_chain_models) include a distibution model, a minimum cost flow model, and a seasonal inventory model
   - [Facility Location](https://github.com/wpbSabi/python_optimization/tree/main/facility_location) is a simple supply chain example combining optimization with geospatial visualization of the results
 - [Geospatial](https://github.com/wpbSabi/geospatial) is for making maps that tell a story
-  - [Covid Deaths](https://github.com/wpbSabi/geospatial/tree/main/one_in_covid_deaths) uses geopandas to make choropleth maps of the World and the US around the time when 1 in 500 people in the US had died due to Covid
+  - [Covid Deaths](https://github.com/wpbSabi/geospatial/tree/main/one_in_covid_deaths) uses geopandas to make choropleth maps of the World and the US around the time when 1 in 500 people in the US had died due to Covid [(article)](https://sabolch-horvat.medium.com/1-in-500-in-the-us-have-died-from-covid-1-in-1700-in-the-world-have-as-of-september-18th-2021-c0de1bf37028)
   - [Montavilla](https://github.com/wpbSabi/geospatial/tree/main/montavilla) displays folium capabilities while exploring grocery store locations in East Portland
 - [Weather](https://github.com/wpbSabi/weather) includes Historical Weather Data Analysis with R; see my Towards Data Science [article](https://towardsdatascience.com/democratizing-historical-weather-data-with-r-cc3c76dde7c5).
 - [Oregon Covid-19](https://github.com/wpbSabi/oregon-covid-19) contains additional charts about Covid-19 from when I wanted to know more about how the virus was spreading near me.
