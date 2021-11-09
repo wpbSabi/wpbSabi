@@ -22,7 +22,6 @@
   - [Montavilla](https://github.com/wpbSabi/geospatial/tree/main/montavilla) displays folium capabilities while exploring grocery store locations in East Portland
 - [Weather](https://github.com/wpbSabi/weather) includes Historical Weather Data Analysis with R; see my Towards Data Science [article](https://towardsdatascience.com/democratizing-historical-weather-data-with-r-cc3c76dde7c5).
 - [Oregon Covid-19](https://github.com/wpbSabi/oregon-covid-19) contains additional charts about Covid-19 from when I wanted to know more about how the virus was spreading near me.
-- [Machine Learning](https://github.com/wpbSabi/machine_learning) will include python scikit-learn models.  For now, there is one regressional analysis using farmers market data.
 - [Basketball](https://github.com/wpbSabi/basketball) is a R shiny app that I built to automate the analysis I typically do to guess with my March Madness picks. Additional analysis showed that my methods are not great at guessing the winners, but whose methods are?  I shared this capability in an [article](https://towardsdatascience.com/the-r-shiny-app-i-built-to-streamline-march-madness-predictions-e5e00c3a3691) as well.
 - [Oregon Voters](https://github.com/wpbSabi/oregon_voters) was some ad hoc analysis, with both R and Python, before the 2020 election based on voter registration data.  I tried to understand how things may or may not change in the local state elections.
 - [Ducks](https://github.com/wpbSabi/ducks) is a brief overview of the eggs that my ducks have laid in their first year, with a GIF.
