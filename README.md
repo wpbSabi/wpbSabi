@@ -15,7 +15,7 @@
 ## Check out my repositories: 
 - [Python Optimization](https://github.com/wpbSabi/python_optimization) includes supply chain models and the Census project mentioned above.
   - [Oregon Districts](https://github.com/wpbSabi/python_optimization/tree/main/oregon_districts) is a project in anticipation of 2020 Census data with an accompanying [article](https://towardsdatascience.com/how-to-draw-congressional-districts-in-python-with-linear-programming-b1e33c80bc52)
-  - [Supply Chain Models](https://github.com/wpbSabi/python_optimization/tree/main/supply_chain_models) include a distibution model and a seasonal inventory model
+  - [Seasonal Inventory](https://github.com/wpbSabi/python_optimization/tree/main/seasonal_inventory) is a multi-period inventory model with capacity constraints
   - [Facility Location](https://github.com/wpbSabi/python_optimization/tree/main/facility_location) is a simple supply chain example combining optimization with geospatial visualization of the results
   - [Minimum Cost Flow](https://github.com/wpbSabi/python_optimization/tree/main/minimum_cost_flow) is a supply chain model that chooses the optimal transportation lanes
 - [Geospatial](https://github.com/wpbSabi/geospatial) is for making maps that tell a story
