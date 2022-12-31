@@ -1,14 +1,8 @@
-### Hi there, I'm Sabi 👋
-
-## I'm a Data Scientist (Operations Researcher) who strives to do good: 
-- 🌱 I'm an environmentalist with a concern for sustainable living in Oregon 🌲.
+## Hi there, I'm a Data Scientist | Operations Researcher 
 - 📓 I started writing on Medium and [Towards Data Science](https://sabolch-horvat.medium.com/) in 2021.
-- 💡 I love learning and sharing. My repositories and the ones I follow are intended for both of those purposes.
-
-## Connect with me: 
-- 🐦 On [Twitter](https://twitter.com/tourofdata).
-- 😄 Pronouns: he / him / his
-- 🌳 Fun: My wife and I are gardeners and home orchardists, and our ducks help with permaculture aspects of our system 🐛🦆🥚.
+- 💡 I love learning and sharing. My repositories and the ones I follow are intended for both of those purposes
+- :truck: I work primarily on supply chain networks, but my github has a more diverse range of interests
+- 🌱 I'm an environmentalist with a concern for sustainable living in Oregon 🌲. 🌳 My wife and I are gardeners and home orchardists, and our ducks help with permaculture aspects of our system 🐛🦆🥚.
 
 ## Check out my repositories: 
 - [Python Optimization](https://github.com/wpbSabi/python_optimization) includes supply chain models and the Census project mentioned above.
