@@ -4,12 +4,12 @@
 - 🌱🌲🌳 My wife and I are gardeners and home orchardists; our ducks also help with permaculture aspects of our system 🐛🦆🥚
 
 ## Check out my repositories: 
-- [Python Optimization](https://github.com/wpbSabi/python_optimization) includes supply chain models and other optimization models
+- The Python Optimization repo includes supply chain models and other optimization models
   - [Oregon Districts](https://github.com/wpbSabi/python_optimization/tree/main/oregon_districts) is a project in anticipation of 2020 Census data with an accompanying [article](https://towardsdatascience.com/how-to-draw-congressional-districts-in-python-with-linear-programming-b1e33c80bc52)
   - [Seasonal Inventory](https://github.com/wpbSabi/python_optimization/tree/main/seasonal_inventory) is a multi-period inventory model with capacity constraints
   - [Facility Location](https://github.com/wpbSabi/python_optimization/tree/main/facility_location) is a simple supply chain example combining optimization with geospatial visualization of the results
   - [Minimum Cost Flow](https://github.com/wpbSabi/python_optimization/tree/main/minimum_cost_flow) is a supply chain model that chooses the optimal transportation lanes
-- Geospatial projects on GitHub include maps with folium, geopandas, plotly, kepler, and/or other packages
+- The Geospatial repo includes maps with folium, geopandas, plotly, kepler, and/or other packages
   - [Portland Districts](https://github.com/wpbSabi/portland_potential_districts) is an analysis utilizing census tract data to explore a few districting options for Portland's first potential city council districts
   - [Montavilla Grocery Stores](https://github.com/wpbSabi/geospatial/tree/main/montavilla) displays folium capabilities while exploring grocery store locations in East Portland
   - [Covid Deaths](https://github.com/wpbSabi/geospatial/tree/main/one_in_covid_deaths) uses geopandas to make choropleth maps of the World and the US around the time when 1 in 500 people in the US had died due to Covid [(article)](https://sabolch-horvat.medium.com/1-in-500-in-the-us-have-died-from-covid-1-in-1700-in-the-world-have-as-of-september-18th-2021-c0de1bf37028)
