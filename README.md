@@ -1,16 +1,15 @@
 ## Hi there, I'm a Data Scientist | Operations Researcher 
-- 💡 I love learning and sharing. My repositories and the ones I follow are intended for both of those purposes
-- :truck: I work primarily on supply chain networks, but my github has a more diverse range of interests
-- 📓 I started writing on Medium and [Towards Data Science](https://sabolch-horvat.medium.com/) in 2021.
+- 💡 I enjoy learning and sharing on GitHub and I started writing on Medium / [Towards Data Science](https://sabolch-horvat.medium.com/) 📓 ✏️ 
+- 🚚 🚢 I work primarily on supply chain networks, but my github has a more diverse range of interests
 - 🌱🌲🌳 My wife and I are gardeners and home orchardists; our ducks also help with permaculture aspects of our system 🐛🦆🥚.
 
 ## Check out my repositories: 
-- [Python Optimization](https://github.com/wpbSabi/python_optimization) includes supply chain models and the Census project mentioned above.
+- [Python Optimization](https://github.com/wpbSabi/python_optimization) includes supply chain models and other optimization models
   - [Oregon Districts](https://github.com/wpbSabi/python_optimization/tree/main/oregon_districts) is a project in anticipation of 2020 Census data with an accompanying [article](https://towardsdatascience.com/how-to-draw-congressional-districts-in-python-with-linear-programming-b1e33c80bc52)
   - [Seasonal Inventory](https://github.com/wpbSabi/python_optimization/tree/main/seasonal_inventory) is a multi-period inventory model with capacity constraints
   - [Facility Location](https://github.com/wpbSabi/python_optimization/tree/main/facility_location) is a simple supply chain example combining optimization with geospatial visualization of the results
   - [Minimum Cost Flow](https://github.com/wpbSabi/python_optimization/tree/main/minimum_cost_flow) is a supply chain model that chooses the optimal transportation lanes
-- [Geospatial](https://github.com/wpbSabi/geospatial) is for making maps that tell a story
+- [Geospatial](https://github.com/wpbSabi/geospatial) includes maps with folium, geopandas, plotly, kepler, and/or other packages
   - [Portland Districts](https://github.com/wpbSabi/portland_potential_districts) is an analysis utilizing census tract data to explore a few districting options for Portland's first potential city council districts
   - [Covid Deaths](https://github.com/wpbSabi/geospatial/tree/main/one_in_covid_deaths) uses geopandas to make choropleth maps of the World and the US around the time when 1 in 500 people in the US had died due to Covid [(article)](https://sabolch-horvat.medium.com/1-in-500-in-the-us-have-died-from-covid-1-in-1700-in-the-world-have-as-of-september-18th-2021-c0de1bf37028)
   - [Montavilla Grocery Stores](https://github.com/wpbSabi/geospatial/tree/main/montavilla) displays folium capabilities while exploring grocery store locations in East Portland
