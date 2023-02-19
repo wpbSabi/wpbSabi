@@ -17,7 +17,7 @@
 - [Weather](https://github.com/wpbSabi/weather) has multiple Historical Weather Data Analysis with R and python
   - See articles on [Towards Data Science](https://medium.com/@sabolch-horvat/about)
   - I plan to update images for Portland, Oregon after the first freeze in 2022
-- [Ducks](https://github.com/wpbSabi/ducks)💡 I'm currently working on an overview of the data about how many eggs our ducks have laid in their two years
+- [Ducks](https://github.com/wpbSabi/ducks)💡 Data analysis with R about how many eggs our ducks have laid in their two years
 
 <!--
 **wpbSabi/wpbSabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
