@@ -1,5 +1,5 @@
 ## Welcome - Check out my repositories: 
-- My most recent project is a [sustainable supply chain template](https://github.com/wpbSabi/sustainable_supply_chain_template) which utilizes geocoding,  geospatial calculations, mapping with folium, and sustainability metrics to create a supply chain template that accounts for both transportation and facility greenhouse gas emissions (rather than only one or the other).
+- My most recent project was a [sustainable supply chain template](https://github.com/wpbSabi/sustainable_supply_chain_template) which utilizes geocoding,  geospatial calculations, mapping with folium, and sustainability metrics to create a supply chain template that accounts for both transportation and facility greenhouse gas emissions (rather than only one or the other).
 - The Python Optimization repo includes supply chain models and other optimization models
   - [Oregon Districts](https://github.com/wpbSabi/python_optimization/tree/main/oregon_districts) is a project in anticipation of 2020 Census data with an accompanying [article](https://towardsdatascience.com/how-to-draw-congressional-districts-in-python-with-linear-programming-b1e33c80bc52)
   - [Seasonal Inventory](https://github.com/wpbSabi/python_optimization/tree/main/seasonal_inventory) is a multi-period inventory model with capacity constraints
@@ -18,7 +18,7 @@
 ## Also
 - Read my articles on Medium and Towards Data Science: https://sabolch-horvat.medium.com/ 📓 
 - 🚚 🚢 I work primarily on supply chain networks, but my github has a more diverse range of interests
-- 🌱🌲🌳 My wife and I are gardeners and home orchardists; our ducks also help with permaculture aspects of our system 🐛🦆🥚
+- 🌱🌲🌳 My wife and I are gardeners and home orchardists; our ducks also help with permaculture aspects of our system 🐛🦆🥚.  For duck videos, please see our youtube channel: https://www.youtube.com/c/gardeningwithducks
 
 
 <!--
