@@ -11,8 +11,10 @@
   - [Covid Deaths](https://github.com/wpbSabi/geospatial/tree/main/one_in_covid_deaths) uses geopandas to make choropleth maps of the World and the US around the time when 1 in 500 people in the US had died due to Covid [(article)](https://sabolch-horvat.medium.com/1-in-500-in-the-us-have-died-from-covid-1-in-1700-in-the-world-have-as-of-september-18th-2021-c0de1bf37028)
   - [Oregon Covid-19](https://github.com/wpbSabi/oregon-covid-19) contains additional charts about Covid-19 from when I wanted to know more about how the virus was spreading near me.
 - [Weather](https://github.com/wpbSabi/weather) has multiple Historical Weather Data Analysis with R and python
-  - See articles on [Towards Data Science](https://medium.com/@sabolch-horvat/about)
-  - I plan to update images for Portland, Oregon after the first freeze in 2022
+  - Number of consecutive days above 80, 90, 100 degrees in Portland, Oregon ([article](https://towardsdatascience.com/use-itertools-groupby-to-count-consecutive-occurrences-in-python-7bb83248b83e))
+  - Summer nighttime lows temperatures across 26 US cities ([article](https://towardsdatascience.com/a-look-at-summer-nighttime-low-temperatures-across-26-cities-in-the-us-9ea596c5f61f))
+  - Summer nighttime lows in Portland, Oregon are just as shocking as the highs in the 2021 record week ([article](https://sabolch-horvat.medium.com/the-pacific-northwest-heat-wave-has-lows-that-are-just-as-shocking-as-the-highs-efab4500790f))
+  - [Democratizing weather data with R](https://towardsdatascience.com/democratizing-historical-weather-data-with-r-cc3c76dde7c5): Where to get the data and several interesting charts for gardeners or weather geeks
 - [Ducks](https://github.com/wpbSabi/ducks) Data analysis with R about how many eggs our ducks have laid in their two years
 
 ## Also
