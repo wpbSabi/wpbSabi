@@ -1,10 +1,9 @@
 ## Welcome - Check out my repositories: 
 - My most recent project was a [sustainable supply chain template](https://github.com/wpbSabi/sustainable_supply_chain_template) which utilizes geocoding,  geospatial calculations, mapping with folium, and sustainability metrics to create a supply chain template that accounts for both transportation and facility greenhouse gas emissions (rather than only one or the other).
-- The Python Optimization repo includes supply chain models and other optimization models
-  - [Oregon Districts](https://github.com/wpbSabi/python_optimization/tree/main/oregon_districts) is a project in anticipation of 2020 Census data with an accompanying [article](https://towardsdatascience.com/how-to-draw-congressional-districts-in-python-with-linear-programming-b1e33c80bc52)
-  - [Seasonal Inventory](https://github.com/wpbSabi/python_optimization/tree/main/seasonal_inventory) is a multi-period inventory model with capacity constraints
-  - [Facility Location](https://github.com/wpbSabi/python_optimization/tree/main/facility_location) is a simple supply chain example combining optimization with geospatial visualization of the results
-  - [Minimum Cost Flow](https://github.com/wpbSabi/python_optimization/tree/main/minimum_cost_flow) is a supply chain model that chooses the optimal transportation lanes
+- [Seasonal Inventory](https://github.com/wpbSabi/python_optimization/tree/main/seasonal_inventory) is a multi-period inventory model with capacity constraints. The model utilizes ortool pywraplp.
+- [Facility Location](https://github.com/wpbSabi/python_optimization/tree/main/facility_location) is a simple supply chain example combining optimization with geospatial visualization of the results
+- [Minimum Cost Flow](https://github.com/wpbSabi/python_optimization/tree/main/minimum_cost_flow) is a supply chain model that chooses the optimal transportation lanes
+- [Oregon Districts](https://github.com/wpbSabi/python_optimization/tree/main/oregon_districts) was a project in anticipation of 2020 Census data.  The project uses python optimization that is explained with an accompanying [article](https://towardsdatascience.com/how-to-draw-congressional-districts-in-python-with-linear-programming-b1e33c80bc52)
 - The Geospatial repo includes maps with folium, geopandas, plotly, kepler, and/or other packages
   - [Portland Districts](https://github.com/wpbSabi/portland_potential_districts) is an analysis utilizing census tract data to explore a few districting options for Portland's first potential city council districts
   - [Montavilla Grocery Stores](https://github.com/wpbSabi/geospatial/tree/main/montavilla) displays folium capabilities while exploring grocery store locations in East Portland
