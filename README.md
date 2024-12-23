@@ -1,5 +1,4 @@
 ## Welcome - Check out my github repositories: 
-- :bulb: My next project will compare two identical machine learning models with one exception: how dates are handled for training data.  The project will likely utilize bikeshare data from UC-Irvine's public ML data.
 - My most recent project was a [sustainable supply chain template](https://github.com/wpbSabi/sustainable_supply_chain_template) which utilizes geocoding,  geospatial calculations, mapping with folium, and sustainability metrics to create a supply chain template that accounts for both transportation and facility greenhouse gas emissions (rather than only one or the other).
 - [Seasonal Inventory](https://github.com/wpbSabi/python_optimization/tree/main/seasonal_inventory) is a multi-period inventory model with capacity constraints. The model utilizes ortools pywraplp.
 - [Facility Location](https://github.com/wpbSabi/python_optimization/tree/main/facility_location) is a simple supply chain example combining optimization with geospatial visualization of the results.
