@@ -6,6 +6,7 @@ Topics include:
 - Optimization models (open source ortools or pulp rather than gurobi or cplex, etc.)
 - A Prediction model (regression)
 - Geospatial visualizations
+- LOTS of weather analysis; this is an interesting topic
 
 ## About the repositories:
 - [weather_python](https://github.com/wpbSabi/weather_python) focuses on weather data analysis in python and demonstrates some best practices for github repositories
