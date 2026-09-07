@@ -12,7 +12,7 @@ Topics include:
 
 ### Each of the repository links below:
 - navigates to a README.md file with a description and demonstrative images (scroll down to read)
-- utilizes either uv or poetry for package management to ensure smooth runs on anyone's laptop
+- utilizes either `uv` or `poetry` for package management to ensure smooth runs on anyone's laptop
 
 [weather_python](https://github.com/wpbSabi/weather_python) focuses on weather data analysis in python and demonstrates some best practices for github repositories
 
