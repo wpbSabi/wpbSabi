@@ -10,16 +10,18 @@ Topics include:
 
 ## About the repositories:
 
-### Each of the repository links below:
+### Each of the repository links directly below:
 - navigates to a README.md file with a description and demonstrative images (scroll down to read)
 - utilizes either `uv` or `poetry` for package management to ensure smooth runs on anyone's laptop
 
 [weather_python](https://github.com/wpbSabi/weather_python) focuses on weather data analysis in python and demonstrates some best practices for github repositories
 
+The [sustainable supply chain template](https://github.com/wpbSabi/sustainable_supply_chain_template) utilizes geocoding, geospatial calculations, mapping with folium, and sustainability metrics to create a supply chain template that accounts for both transportation and facility greenhouse gas emissions (rather than only one or the other).
+
+
 ### Additionally, these historical repositories have some interesting work but aren't maintained to my current standards.  
 
 - [Weather](https://github.com/wpbSabi/weather) has more Historical Weather Data Analysis, mostly with R but also with python. [Democratizing weather data with R](https://towardsdatascience.com/democratizing-historical-weather-data-with-r-cc3c76dde7c5) is a tutorial that I wrote in Towards Data Science that shows how to download US weather data and develops several interesting charts for gardeners or weather geeks.  I wrote more articles about specific weather topics as well, such as the number of consecutive days above 80, 90, 100 degrees in Portland, Oregon ([article](https://towardsdatascience.com/use-itertools-groupby-to-count-consecutive-occurrences-in-python-7bb83248b83e)), and summer nighttime lows temperatures across 26 US cities ([article](https://towardsdatascience.com/a-look-at-summer-nighttime-low-temperatures-across-26-cities-in-the-us-9ea596c5f61f)).
-- The [sustainable supply chain template](https://github.com/wpbSabi/sustainable_supply_chain_template) utilizes geocoding, geospatial calculations, mapping with folium, and sustainability metrics to create a supply chain template that accounts for both transportation and facility greenhouse gas emissions (rather than only one or the other).
 - Python Optimization contains the following:
 	- [Seasonal Inventory](https://github.com/wpbSabi/python_optimization/tree/main/seasonal_inventory) is a multi-period inventory model with capacity constraints. The model utilizes ortools pywraplp.
 	- [Facility Location](https://github.com/wpbSabi/python_optimization/tree/main/facility_location) is a simple supply chain example combining optimization with geospatial visualization of the results.
