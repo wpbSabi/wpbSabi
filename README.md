@@ -18,7 +18,7 @@ Topics include:
 
 The [sustainable supply chain template](https://github.com/wpbSabi/sustainable_supply_chain_template) utilizes geocoding, geospatial calculations, mapping with folium, and sustainability metrics to create a supply chain template that accounts for both transportation and facility greenhouse gas emissions (rather than only one or the other).
 
-(WIP) [Deliveries](https://github.com/wpbSabi/deliveries) is a work in process to demonstrate some best practices with supply chain regression models.  My next step is to improve upon the data that used from Kaggle.  Upon detailed inspection, that data is not realistic and there are not valuable insights to demonstrate with that daat.
+(WIP) [Deliveries](https://github.com/wpbSabi/deliveries) is a work in process to demonstrate some best practices with supply chain regression models.  My next step is to improve upon the data that I used from Kaggle.  Upon reviewing the in-process results based on that data, that data is not realistic and there are not valuable insights to demonstrate yet.  I will mock up scenarios and visuals after generating more data.
 
 
 ### Additionally, these historical repositories have some interesting work but aren't maintained to my current standards.  
